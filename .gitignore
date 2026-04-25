@@ -74,6 +74,7 @@ jspm_packages/
 
 # IDE files
 .vscode/
+.kiro/
 .idea/
 *.swp
 *.swo
